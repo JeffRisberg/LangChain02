@@ -14,7 +14,7 @@ def lookup(name: str) -> str:
                           Your answer should contain only a URL"""
     tools_for_agent1 = [
         Tool(
-            name="Crawl Google 4 linkedin profile page", func=get_profile_url, description="useful for when you need get the Linkedin Page URL",
+            name="Crawl Google for linkedin profile page", func=get_profile_url, description="useful for when you need get the Linkedin Page URL",
         ),
     ]
 
