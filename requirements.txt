@@ -1,3 +1,2 @@
-langchain==0.0.314
+langchain==0.0.325
 flask==2.3.3
-
