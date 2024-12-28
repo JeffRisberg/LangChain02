@@ -14,7 +14,8 @@ pip install -r requirements.txt
 
 ## Usage
 
-update .env file with your API key
+Update .env file with your OPENAI_API key
+Update .env file with your SERPAPI_API key
 
 Then export it with
 
