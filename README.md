@@ -5,7 +5,7 @@ Corresponds to Udemy course, part 3, "Icebreaker real world generative API appli
 ## Set up virtual environment
 ```
 rm -rf venv
-virtualenv -p python3.11 venv
+virtualenv -p python3.12 venv
 . venv/bin/activate
 pip install --upgrade pip
 
